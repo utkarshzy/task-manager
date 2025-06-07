@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/task-manager/static/css/main.057a5e9b.css",
+    "main.js": "/task-manager/static/js/main.66fee37a.js",
+    "static/js/453.3c3c57d0.chunk.js": "/task-manager/static/js/453.3c3c57d0.chunk.js",
+    "static/media/bg-home-office-city.jpg": "/task-manager/static/media/bg-home-office-city.4bcf489b147152eba046.jpg",
+    "index.html": "/task-manager/index.html",
+    "main.057a5e9b.css.map": "/task-manager/static/css/main.057a5e9b.css.map",
+    "main.66fee37a.js.map": "/task-manager/static/js/main.66fee37a.js.map",
+    "453.3c3c57d0.chunk.js.map": "/task-manager/static/js/453.3c3c57d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057a5e9b.css",
+    "static/js/main.66fee37a.js"
+  ]
+}
